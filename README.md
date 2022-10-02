@@ -1,0 +1,2 @@
+# gostater
+Golang state machine
